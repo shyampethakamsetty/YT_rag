@@ -1,5 +1,5 @@
 
-## **YouTube Financial Sentiment Analysis**  
+## **YouTube Financial Sentiment Analysis chat bot**  
 
 ### **Overview**  
 This project is designed to retrieve, process, and analyze financial sentiment from various sources, starting with **YouTube transcripts**. It leverages **vector databases**, embeddings, and agents for data retrieval and organization.  
